@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "server": "node src/server.mjs",
+    "production": "NODE_ENV=production node src/app.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
